@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.spireon:platform-domain-java:0.5-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/spireon/platform-domain-java/0.5-SNAPSHOT/platform-domain-java-0.5-20161206.193117-31.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/spireon/platform-domain-java/0.5-SNAPSHOT/platform-domain-java-0.5-20161206.193117-31-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/spireon/platform-domain-java/0.5-SNAPSHOT/platform-domain-java-0.5-20161206.193117-31-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
